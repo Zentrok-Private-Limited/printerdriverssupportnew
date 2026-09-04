@@ -17,11 +17,11 @@ import {
 import { useRouter } from "next/navigation";
 
 const privacyConfig = {
-  companyName: "Printer Assistance",
+  companyName: "Printer Drivers Support ",
   email: "contact@printerassistance",
   url: "http://printerassistance.com/",
   corporateAddress: {
-    name: "Printer Assistance",
+    name: "Printer Drivers Support ",
     building: "30 N GOULD ST STER,",
     Address: "SHERIDAN WY, 82801",
   },

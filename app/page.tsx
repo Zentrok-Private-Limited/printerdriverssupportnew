@@ -171,7 +171,7 @@ export default function HomePage() {
 
         <div className="relative z-10 mx-auto max-w-6xl px-4 text-center">
           <p className="text-xl font-extrabold text-gray-900 md:text-3xl">
-            Printer Assistance
+            Printer Drivers Support 
           </p>
           <h2 className="text-3xl font-extrabold text-gray-900 md:text-5xl">
             Select Your Printer Model
@@ -541,13 +541,13 @@ export default function HomePage() {
         <div className="grid gap-12 lg:grid-cols-12 items-center">
           <div className="lg:col-span-7 space-y-6">
             <span className="inline-block rounded-full border border-gray-300 px-3 py-1 text-[11px] font-bold tracking-wider text-gray-500 uppercase">
-              About Printer Assistance
+              About Printer Drivers Support 
             </span>
             <h2 className="text-3xl font-extrabold text-slate-900 sm:text-4xl">
               Fast setup help for drivers, wireless, and common errors
             </h2>
             <p className="text-sm text-gray-600 leading-relaxed max-w-2xl">
-              <strong>Printer Assistance</strong> helps you get the right software,
+              <strong>Printer Drivers Support </strong> helps you get the right software,
               connect devices to Wi-Fi, and fix everyday issues like offline
               messages, driver conflicts, paper jams, and print quality
               problems. Our guidance is clear, step-by-step, and designed for
@@ -772,7 +772,7 @@ export default function HomePage() {
           <section className="bw-disclaimer" aria-label="Disclaimer">
             <h2 className="bw-disclaimer-title">Disclaimer</h2>
             <p className="bw-disclaimer-copy">
-              Printer Assistance is an independent support provider operated by
+              Printer Drivers Support is an independent support provider operated by
               Printer Service LLC. We are not affiliated with, endorsed by,
               sponsored by, or authorized by HP, Canon, Epson, Brother, Xerox,
               Lexmark, Dell, Ricoh, Kyocera, Samsung, or any other printer

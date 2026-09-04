@@ -18,7 +18,7 @@ import {
 import { useRouter } from "next/navigation";
 
 const policyConfig = {
-  companyName: "Printer Assistance",
+  companyName: "Printer Drivers Support",
   email: "contact@printerassistance.com",
   url: "http://printerassistance.com/",
 };
